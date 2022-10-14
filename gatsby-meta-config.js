@@ -17,7 +17,7 @@
 
 /** @type {MetaConfig} */
 const metaConfig = {
-  title: "Blog Masyarakat",
+  title: "Blog",
   description: `Blog Masyarakat`,
   author: "Sugeng",
   siteUrl: "https://blog.masyarakat.id",
