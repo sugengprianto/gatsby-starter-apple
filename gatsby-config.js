@@ -13,15 +13,11 @@ const siteMetadata = {
   menuLinks: [
     {
       link: "/",
-      name: "Home",
+      name: "Beranda",
     },
     {
       link: "/about/",
-      name: "About",
-    },
-    {
-      link: meta.links.github,
-      name: "Github",
+      name: "Tentang",
     },
   ],
 }
